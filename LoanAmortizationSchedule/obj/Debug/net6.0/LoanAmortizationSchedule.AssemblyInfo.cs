@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoanAmortizationSchedule")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec433aafc9001ebfacc2a92dbc0e39ab0032d732")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89e7f930ec794b01b604b56abe13514e28e2f112")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoanAmortizationSchedule")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoanAmortizationSchedule")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

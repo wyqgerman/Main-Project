@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wyqge\\Source\\Repos\\LoanAmortizationSchedule\\LoanAmortizationSchedule\\LoanAmortizationSchedule.csproj",
+      "projectUniqueName": "C:\\Users\\wyqge\\Source\\Repos\\Main-Project\\LoanAmortizationSchedule\\LoanAmortizationSchedule.csproj",
       "projectName": "LoanAmortizationSchedule",
-      "projectPath": "C:\\Users\\wyqge\\Source\\Repos\\LoanAmortizationSchedule\\LoanAmortizationSchedule\\LoanAmortizationSchedule.csproj",
+      "projectPath": "C:\\Users\\wyqge\\Source\\Repos\\Main-Project\\LoanAmortizationSchedule\\LoanAmortizationSchedule.csproj",
       "packagesPath": "C:\\Users\\wyqge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wyqge\\Source\\Repos\\LoanAmortizationSchedule\\LoanAmortizationSchedule\\obj\\",
+      "outputPath": "C:\\Users\\wyqge\\Source\\Repos\\Main-Project\\LoanAmortizationSchedule\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

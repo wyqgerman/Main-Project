@@ -9,43 +9,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LoanAmortizationSchedule
 build_property.RootNamespace = LoanAmortizationSchedule
-build_property.ProjectDir = C:\Users\wyqge\source\repos\LoanAmortizationSchedule\LoanAmortizationSchedule\
+build_property.ProjectDir = C:\Users\wyqge\Source\Repos\Main-Project\LoanAmortizationSchedule\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\wyqge\source\repos\LoanAmortizationSchedule\LoanAmortizationSchedule
+build_property.MSBuildProjectDirectory = C:\Users\wyqge\Source\Repos\Main-Project\LoanAmortizationSchedule
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/wyqge/source/repos/LoanAmortizationSchedule/LoanAmortizationSchedule/App.razor]
+[C:/Users/wyqge/Source/Repos/Main-Project/LoanAmortizationSchedule/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/wyqge/source/repos/LoanAmortizationSchedule/LoanAmortizationSchedule/Pages/Index.razor]
+[C:/Users/wyqge/Source/Repos/Main-Project/LoanAmortizationSchedule/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/wyqge/source/repos/LoanAmortizationSchedule/LoanAmortizationSchedule/_Imports.razor]
+[C:/Users/wyqge/Source/Repos/Main-Project/LoanAmortizationSchedule/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/wyqge/source/repos/LoanAmortizationSchedule/LoanAmortizationSchedule/Shared/MainLayout.razor]
+[C:/Users/wyqge/Source/Repos/Main-Project/LoanAmortizationSchedule/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-1b9ols3u2w
 
-[C:/Users/wyqge/source/repos/LoanAmortizationSchedule/LoanAmortizationSchedule/Shared/NavMenu.razor]
+[C:/Users/wyqge/Source/Repos/Main-Project/LoanAmortizationSchedule/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-v3axe5j300
 
-[C:/Users/wyqge/source/repos/LoanAmortizationSchedule/LoanAmortizationSchedule/Pages/Error.cshtml]
+[C:/Users/wyqge/Source/Repos/Main-Project/LoanAmortizationSchedule/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/wyqge/source/repos/LoanAmortizationSchedule/LoanAmortizationSchedule/Pages/_Host.cshtml]
+[C:/Users/wyqge/Source/Repos/Main-Project/LoanAmortizationSchedule/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/wyqge/source/repos/LoanAmortizationSchedule/LoanAmortizationSchedule/Pages/_Layout.cshtml]
+[C:/Users/wyqge/Source/Repos/Main-Project/LoanAmortizationSchedule/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
